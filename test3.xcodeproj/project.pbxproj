@@ -16,6 +16,7 @@
 		AAA3184A275311F200648600 /* test3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA31849275311F200648600 /* test3Tests.swift */; };
 		AAA31854275311F200648600 /* test3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA31853275311F200648600 /* test3UITests.swift */; };
 		AAA31856275311F200648600 /* test3UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAA31855275311F200648600 /* test3UITestsLaunchTests.swift */; };
+		AAA31863275312C600648600 /* pose_pien_uruuru_man.png in Resources */ = {isa = PBXBuildFile; fileRef = AAA31862275312C600648600 /* pose_pien_uruuru_man.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AAA3184F275311F200648600 /* test3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test3UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAA31853275311F200648600 /* test3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3UITests.swift; sourceTree = "<group>"; };
 		AAA31855275311F200648600 /* test3UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test3UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AAA31862275312C600648600 /* pose_pien_uruuru_man.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pose_pien_uruuru_man.png; path = ../../pose_pien_uruuru_man.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AAA31832275311F000648600 /* AppDelegate.swift */,
 				AAA31834275311F000648600 /* SceneDelegate.swift */,
 				AAA31836275311F000648600 /* ViewController.swift */,
+				AAA31862275312C600648600 /* pose_pien_uruuru_man.png */,
 				AAA31838275311F000648600 /* Main.storyboard */,
 				AAA3183B275311F100648600 /* Assets.xcassets */,
 				AAA3183D275311F100648600 /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 				AAA3183F275311F100648600 /* LaunchScreen.storyboard in Resources */,
 				AAA3183C275311F100648600 /* Assets.xcassets in Resources */,
 				AAA3183A275311F000648600 /* Main.storyboard in Resources */,
+				AAA31863275312C600648600 /* pose_pien_uruuru_man.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
